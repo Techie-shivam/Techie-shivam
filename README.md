@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=240&section=header&text=Shivam%20Goel&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20GenAI%20%7C%20Speech%20%26%20Agentic%20Systems&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Shivam Goel banner"/>
+<a href="https://techie-shivam.github.io/portfolio/">
+  <img src="assets/portfolio-card.png" width="100%" alt="Shivam Goel portfolio"/>
+</a>
+
+**[🌐 Visit my portfolio →](https://techie-shivam.github.io/portfolio/)**
+
+</div>
+
+<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=700&lines=I+build+AI%2FML+systems+that+solve+real+problems;Speech+Separation+%7C+RAG+%7C+Agentic+AI;B.Tech+%40+Delhi+Technological+University;Mechanical+brain%2C+Machine+Learning+heart+%E2%9A%99%EF%B8%8F%F0%9F%A7%A0" alt="Typing SVG" />
@@ -171,12 +179,6 @@ Multi-agent system that autonomously **plans, retrieves, generates and verifies*
 
 ## 🏆 Achievements
 
-<!--
-  Add your real achievements here as badges, for example:
-  ![Hackathon](https://img.shields.io/badge/HACKATHON-WINNER-8A2BE2?style=for-the-badge&labelColor=333)
-  ![Kaggle](https://img.shields.io/badge/KAGGLE-EXPERT-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=333)
--->
-
 <div align="center">
 
 ![Coursera](https://img.shields.io/badge/DEEP_LEARNING_SPECIALIZATION-COMPLETED-0056D2?style=for-the-badge&logo=coursera&logoColor=white&labelColor=333)
@@ -251,7 +253,7 @@ Multi-agent system that autonomously **plans, retrieves, generates and verifies*
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-goel-73a188362)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamgoyal1217@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt="footer"/>
 
 *⭐ If you like my work, drop a star on a repo!*
 
