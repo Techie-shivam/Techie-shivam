@@ -4,7 +4,6 @@
   <img src="assets/portfolio-card.png" width="100%" alt="Shivam Goel portfolio"/>
 </a>
 
-**[🌐 Visit my portfolio →](https://techie-shivam.github.io/portfolio/)**
 
 </div>
 
@@ -256,6 +255,6 @@ Multi-agent system that autonomously **plans, retrieves, generates and verifies*
 <img src="assets/footer.svg" width="100%" alt="footer"/>
 
 *⭐ If you like my work, drop a star on a repo*
-"Currently building and learning 🚀"
+
 
 </div>
