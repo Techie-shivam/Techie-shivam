@@ -4,8 +4,6 @@
   <img src="assets/portfolio-card.png" width="100%" alt="Shivam Goel portfolio"/>
 </a>
 
-**[🌐 Visit my portfolio →](https://techie-shivam.github.io/portfolio/)**
-
 </div>
 
 <div align="center">
