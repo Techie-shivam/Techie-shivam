@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280" fill="none">
+  <style>
+    .title { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .axis { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #565f89; }
+    .grid { stroke: #24283b; stroke-width: 1; stroke-dasharray: 4,4; }
+  </style>
+
+  <rect width="800" height="280" rx="6" fill="#1a1b26"/>
+
+  <text x="30" y="35" class="title">Activity Graph — 742 Contributions in 2025/2026</text>
+
+  <!-- Grid lines -->
+  <line x1="50" y1="70" x2="760" y2="70" class="grid"/>
+  <line x1="50" y1="110" x2="760" y2="110" class="grid"/>
+  <line x1="50" y1="150" x2="760" y2="150" class="grid"/>
+  <line x1="50" y1="190" x2="760" y2="190" class="grid"/>
+  <line x1="50" y1="230" x2="760" y2="230" stroke="#3b4261" stroke-width="1"/>
+
+  <!-- Gradient fill -->
+  <defs>
+    <linearGradient id="polyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#70a5fd" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#70a5fd" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Filled Area -->
+  <polygon fill="url(#polyGrad)" points="
+    50,230
+    50,140
+    110,110
+    170,160
+    230,90
+    290,130
+    350,75
+    410,120
+    470,80
+    530,105
+    590,65
+    650,115
+    710,70
+    760,100
+    760,230
+  "/>
+
+  <!-- Graph Line -->
+  <polyline fill="none" stroke="#70a5fd" stroke-width="3" points="
+    50,140
+    110,110
+    170,160
+    230,90
+    290,130
+    350,75
+    410,120
+    470,80
+    530,105
+    590,65
+    650,115
+    710,70
+    760,100
+  "/>
+
+  <!-- Data Dots -->
+  <circle cx="50" cy="140" r="4" fill="#2ac3de"/>
+  <circle cx="110" cy="110" r="4" fill="#2ac3de"/>
+  <circle cx="170" cy="160" r="4" fill="#2ac3de"/>
+  <circle cx="230" cy="90" r="4" fill="#2ac3de"/>
+  <circle cx="290" cy="130" r="4" fill="#2ac3de"/>
+  <circle cx="350" cy="75" r="4" fill="#2ac3de"/>
+  <circle cx="410" cy="120" r="4" fill="#2ac3de"/>
+  <circle cx="470" cy="80" r="4" fill="#2ac3de"/>
+  <circle cx="530" cy="105" r="4" fill="#2ac3de"/>
+  <circle cx="590" cy="65" r="4" fill="#2ac3de"/>
+  <circle cx="650" cy="115" r="4" fill="#2ac3de"/>
+  <circle cx="710" cy="70" r="4" fill="#2ac3de"/>
+  <circle cx="760" cy="100" r="4" fill="#2ac3de"/>
+
+  <!-- Month Labels -->
+  <text x="50" y="250" class="axis">Oct</text>
+  <text x="110" y="250" class="axis">Nov</text>
+  <text x="170" y="250" class="axis">Dec</text>
+  <text x="230" y="250" class="axis">Jan</text>
+  <text x="290" y="250" class="axis">Feb</text>
+  <text x="350" y="250" class="axis">Mar</text>
+  <text x="410" y="250" class="axis">Apr</text>
+  <text x="470" y="250" class="axis">May</text>
+  <text x="530" y="250" class="axis">Jun</text>
+  <text x="590" y="250" class="axis">Jul</text>
+  <text x="650" y="250" class="axis">Aug</text>
+  <text x="710" y="250" class="axis">Sep</text>
+  <text x="760" y="250" class="axis">Oct</text>
+</svg>

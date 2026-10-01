@@ -206,16 +206,16 @@ Multi-agent system that autonomously **plans, retrieves, generates and verifies*
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Techie-shivam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="180" src="assets/stats-card.svg" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techie-shivam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Techie-shivam&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="assets/streak-card.svg" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Techie-shivam&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity graph"/>
+<img src="assets/activity-graph.svg" width="95%" alt="Activity graph"/>
 
 </div>
 
