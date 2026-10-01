@@ -12,7 +12,7 @@
 
   <!-- Left: Total Contributions -->
   <g transform="translate(85, 95)">
-    <text x="0" y="-15" class="number">715</text>
+    <text x="0" y="-15" class="number">735</text>
     <text x="0" y="10" class="label">Total Contributions</text>
     <text x="0" y="30" class="date">Oct 1, 2025 – Present</text>
   </g>

@@ -10,7 +10,7 @@
 
   <rect width="495" height="195" rx="4.5" fill="#1a1b26"/>
 
-  <text x="25" y="35" class="header">Shivam 's GitHub Stats</text>
+  <text x="25" y="35" class="header">Shivam's GitHub Stats</text>
 
   <!-- Stars -->
   <g transform="translate(25, 55)">
@@ -23,7 +23,7 @@
   <g transform="translate(25, 80)">
     <path class="icon" d="M1.5 8a6.5 6.5 0 0113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5c0 .2.08.39.22.53l2.25 2.25a.75.75 0 001.06-1.06L8.5 8.19V4.75z"/>
     <text x="25" y="13" class="stat">Total Commits (last year):</text>
-    <text x="210" y="13" class="stat bold">712</text>
+    <text x="210" y="13" class="stat bold">735</text>
   </g>
 
   <!-- PRs -->

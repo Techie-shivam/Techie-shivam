@@ -7,7 +7,7 @@
 
   <rect width="800" height="280" rx="6" fill="#1a1b26"/>
 
-  <text x="30" y="35" class="title">Activity Graph — 715 Contributions in 2025/2026</text>
+  <text x="30" y="35" class="title">Activity Graph — 735 Contributions in 2025/2026</text>
 
   <!-- Grid lines -->
   <line x1="50" y1="70" x2="760" y2="70" class="grid"/>

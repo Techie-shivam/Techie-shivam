@@ -67,7 +67,7 @@ Robust speech separation pipeline built on a fine-tuned **SR-CorrNet**, reaching
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Audio](https://img.shields.io/badge/Speech_AI-24c6dc?style=flat-square)
 
-[🔗 View Repo](https://github.com/Techie-shivam/HearUsOut)
+[🔗 View Repo](https://github.com/Techie-shivam/Multicity)
 
   </td>
     <td width="50%" valign="top">
@@ -83,7 +83,7 @@ Chat with a digital twin grounded in Andrew Ng's lecture notes using **LangChain
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-[🔗 View Repo](https://github.com/Techie-shivam/Andrew-Ng-Digital-Twin)
+[🔗 View Repo](https://github.com/Techie-shivam/digital-twin-project)
 
   </td>
   </tr>
@@ -99,7 +99,7 @@ Multi-agent system that autonomously **plans, retrieves, generates and verifies*
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
-[🔗 View Repo](https://github.com/Techie-shivam/Agentic-AI-Research-System)
+[🔗 View Repo](https://github.com/Techie-shivam/Agentic-Project-1)
 
   </td>
     <td width="50%" valign="top">
@@ -115,7 +115,7 @@ Multi-agent system that autonomously **plans, retrieves, generates and verifies*
 ![TensorFlow](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Web](https://img.shields.io/badge/Web_Dev-24c6dc?style=flat-square)
 
-[🔗 View Repo](https://github.com/Techie-shivam/Stock-Market-Web-App)
+[🔗 View Repo](https://github.com/Techie-shivam/finance-api)
 
   </td>
   </tr>

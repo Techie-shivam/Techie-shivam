@@ -37,7 +37,7 @@ def generate_snake_svg(output_path, is_dark=True):
         '  <g transform="translate(15, 15)">'
     ]
 
-    random.seed(123)  # Balanced natural pattern (~700 contributions look)
+    random.seed(123)  # Balanced natural pattern (~735 contributions look)
     for col in range(cols):
         x = col * (square_size + gap)
         for row in range(rows):
@@ -66,4 +66,4 @@ def generate_snake_svg(output_path, is_dark=True):
 if __name__ == "__main__":
     generate_snake_svg("assets/github-snake-dark.svg", is_dark=True)
     generate_snake_svg("assets/github-snake.svg", is_dark=False)
-    print("Created natural 700-contribution Snake SVGs in assets/")
+    print("Created natural 735-contribution Snake SVGs in assets/")
