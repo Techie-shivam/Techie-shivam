@@ -67,7 +67,7 @@ Robust speech separation pipeline built on a fine-tuned **SR-CorrNet**, reaching
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Audio](https://img.shields.io/badge/Speech_AI-24c6dc?style=flat-square)
 
-[🔗 View Repo](https://github.com/Techie-shivam/Multicity)
+[🔗 View Repo](https://github.com/Techie-shivam/HearUsOut)
 
   </td>
     <td width="50%" valign="top">
