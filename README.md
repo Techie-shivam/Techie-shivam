@@ -20,7 +20,7 @@
 ![Generative AI](https://img.shields.io/badge/GENERATIVE_AI-LLMS_|_RAG-6f42c1?style=for-the-badge&labelColor=333)
 ![Speech AI](https://img.shields.io/badge/SPEECH_AI-SEPARATION-24c6dc?style=for-the-badge&labelColor=333)
 ![Agentic AI](https://img.shields.io/badge/AGENTIC_AI-MULTI--AGENT-2ea44f?style=for-the-badge&labelColor=333)
-![Views](https://komarev.com/ghpvc/?username=Techie-shivam&label=PROFILE+VIEWS&color=24c6dc&style=for-the-badge&labelColor=333)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam_Goel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-goel-73a188362)
 [![Gmail](https://img.shields.io/badge/Gmail-shivamgoyal1217@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamgoyal1217@gmail.com)
