@@ -115,7 +115,7 @@ Multi-agent system that autonomously **plans, retrieves, generates and verifies*
 ![TensorFlow](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Web](https://img.shields.io/badge/Web_Dev-24c6dc?style=flat-square)
 
-[🔗 View Repo](https://github.com/Techie-shivam/finance-api)
+[🔗 View Repo](https://github.com/Techie-shivam/Smart-Stocks-Predictor)
 
   </td>
   </tr>
